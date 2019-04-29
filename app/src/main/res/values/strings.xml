@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PokeDex_00060917</string>
+    <string name="text_query">Query</string>
+    <string name="text_search">SEARCH</string>
+    <string name="text_na">N/A</string>
+    <string name="text_types">Types:</string>
+    <string name="text_weight">Weight:</string>
+    <string name="text_height">Height:</string>
+    <string name="text_experience_needed">Experience needed:</string>
 </resources>
